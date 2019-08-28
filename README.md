@@ -3,8 +3,8 @@ A email validation package for NodeJS. A simple module to validate an e-mail add
 
 [![travis build](https://img.shields.io/travis/manishsaraan/node-email-validation.svg?style=flat-square)](https://travis-ci.org/manishsaraan/node-email-validation)
 [![version](https://img.shields.io/npm/v/node-email-validation.svg?style=flat-square)]((http://npm.im/node-email-validation))
-[![downloads](https://img.shields.io/npm/dm/node-email-validation.svg?style=flat-square)](https://npm-stat.com/charts.html?package=node-email-validation&from=2015-08-01)
-![size](https://img.shields.io/spiget/download-size/2?color=green&style=flat-square)
+[![downloads](https://img.shields.io/npm/dm/node-email-validation.svg?style=flat-square)](https://npm-stat.com/charts.html?package=node-email-validation&from=2019-08-28)
+[![size](https://img.shields.io/spiget/download-size/2?color=green&style=flat-square)](https://img.shields.io/spiget/download-size/2?color=green&style=flat-square)
 
 ## Installation
 Install via NPM:
@@ -44,8 +44,8 @@ Yes, it's really all you need to get started as you can see in this live and int
 ## Questions
 
 For *how-to* questions and other non-issues,
-please use [StackOverflow](https://codesandbox.io/embed/compassionate-snowflake-qglk3) instead of Github issues.
-There is a StackOverflow tag called "material-ui" that you can use to tag your questions.
+please use [StackOverflow](https://stackoverflow.com/search?q=node-email-validation) instead of Github issues.
+There is a StackOverflow tag called "node-email-validation" that you can use to tag your questions.
 
 
 
