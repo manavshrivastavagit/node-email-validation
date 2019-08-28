@@ -1,11 +1,12 @@
 {
   "name": "node-email-validation",
-  "version": "1.0.3",
-  "description": "a simple, fast email validator",
+  "version": "1.0.4",
+  "description": "a simple, fast and robust email validator",
   "main": "index.js",
   "scripts": {
     "test": "mocha test.js"
   },
+  "license": "MIT",
   "keywords": [
     "email-validator",
     "is-email-valid",
