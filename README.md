@@ -1,9 +1,9 @@
 # node-email-validation
 A email validation package for NodeJS. A simple module to validate an e-mail address.
 
-[![travis build](https://img.shields.io/travis/manishsaraan/node-email-validation.svg?style=flat-square)](https://travis-ci.org/manishsaraan/node-email-validation)
+[![travis build](https://travis-ci.org/manavshrivastavagit/node-email-validation.svg?branch=master&style=flat-square)](https://travis-ci.org/manavshrivastavagit/node-email-validation.svg?branch=master)
 [![version](https://img.shields.io/npm/v/node-email-validation.svg?style=flat-square)]((http://npm.im/node-email-validation))
-[![downloads](https://img.shields.io/npm/dm/node-email-validation.svg?style=flat-square)](https://npm-stat.com/charts.html?package=node-email-validation&from=2019-08-28)
+[![downloads](https://img.shields.io/npm/dw/node-email-validation?color=green&style=flat-square)](https://img.shields.io/npm/dw/node-email-validation?color=green&style=flat-square)
 [![size](https://img.shields.io/spiget/download-size/2?color=green&style=flat-square)](https://img.shields.io/spiget/download-size/2?color=green&style=flat-square)
 
 ## Installation

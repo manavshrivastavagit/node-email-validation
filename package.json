@@ -1,6 +1,6 @@
 {
   "name": "node-email-validation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a simple, fast email validator",
   "main": "index.js",
   "scripts": {
